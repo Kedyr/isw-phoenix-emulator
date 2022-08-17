@@ -1,0 +1,7 @@
+/target/
+/META-INF/
+MANIFEST.MF
+META-INF/MANIFEST.MF
+*/git.properties
+src/main/resources/git.properties
+git.properties
